@@ -1,0 +1,45 @@
+2023/02/06-19:15:48.791 2c03 Reusing MANIFEST /Users/woojilee/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/06-19:15:48.791 2c03 Recovering log #22
+2023/02/06-19:15:48.801 2c03 Reusing old log /Users/woojilee/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000022.log 
+2023/02/06-19:25:56.814 a607 Level-0 table #26: started
+2023/02/06-19:25:56.865 a607 Level-0 table #26: 19977 bytes OK
+2023/02/06-19:25:56.878 a607 Delete type=0 #22
+2023/02/06-19:25:56.879 3113 Compacting 4@0 + 1@1 files
+2023/02/06-19:25:56.896 3113 Generated table #27@0: 436 keys, 258174 bytes
+2023/02/06-19:25:56.896 3113 Compacted 4@0 + 1@1 files => 258174 bytes
+2023/02/06-19:25:56.907 3113 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/06-19:25:56.907 3113 Delete type=2 #17
+2023/02/06-19:25:56.907 3113 Delete type=2 #19
+2023/02/06-19:25:56.907 3113 Delete type=2 #21
+2023/02/06-19:25:56.908 3113 Delete type=2 #23
+2023/02/06-19:25:56.908 3113 Delete type=2 #26
+2023/02/06-19:41:42.310 2d1b Level-0 table #29: started
+2023/02/06-19:41:42.341 2d1b Level-0 table #29: 55389 bytes OK
+2023/02/06-19:41:42.363 2d1b Delete type=0 #25
+2023/02/06-19:50:08.352 311f Level-0 table #31: started
+2023/02/06-19:50:08.366 311f Level-0 table #31: 38944 bytes OK
+2023/02/06-19:50:08.378 311f Delete type=0 #28
+2023/02/06-20:11:00.871 9b43 Level-0 table #33: started
+2023/02/06-20:11:00.880 9b43 Level-0 table #33: 16691 bytes OK
+2023/02/06-20:11:00.891 9b43 Delete type=0 #30
+2023/02/06-20:19:36.621 5d77 Level-0 table #35: started
+2023/02/06-20:19:36.636 5d77 Level-0 table #35: 163224 bytes OK
+2023/02/06-20:19:36.646 5d77 Delete type=0 #32
+2023/02/06-20:19:36.647 5d77 Compacting 4@0 + 1@1 files
+2023/02/06-20:19:36.661 5d77 Generated table #36@0: 535 keys, 341463 bytes
+2023/02/06-20:19:36.662 5d77 Compacted 4@0 + 1@1 files => 341463 bytes
+2023/02/06-20:19:36.672 5d77 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/06-20:19:36.673 5d77 Delete type=2 #27
+2023/02/06-20:19:36.673 5d77 Delete type=2 #29
+2023/02/06-20:19:36.673 5d77 Delete type=2 #31
+2023/02/06-20:19:36.673 5d77 Delete type=2 #33
+2023/02/06-20:19:36.673 5d77 Delete type=2 #35
+2023/02/06-20:33:44.832 a56f Level-0 table #38: started
+2023/02/06-20:33:44.840 a56f Level-0 table #38: 18998 bytes OK
+2023/02/06-20:33:44.851 a56f Delete type=0 #34
+2023/02/06-21:04:45.569 8f33 Level-0 table #40: started
+2023/02/06-21:04:45.575 8f33 Level-0 table #40: 19903 bytes OK
+2023/02/06-21:04:45.585 8f33 Delete type=0 #37
+2023/02/06-21:14:36.927 982b Level-0 table #42: started
+2023/02/06-21:14:36.981 982b Level-0 table #42: 16297 bytes OK
+2023/02/06-21:14:36.992 982b Delete type=0 #39

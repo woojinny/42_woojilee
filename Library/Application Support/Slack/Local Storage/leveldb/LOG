@@ -1,0 +1,6 @@
+2023/02/06-19:43:41.544 6507 Reusing MANIFEST /Users/woojilee/Library/Application Support/Slack/Local Storage/leveldb/MANIFEST-000001
+2023/02/06-19:43:41.544 6507 Recovering log #3
+2023/02/06-19:43:41.544 6507 Reusing old log /Users/woojilee/Library/Application Support/Slack/Local Storage/leveldb/000003.log 
+2023/02/06-21:17:42.287 17f1b Level-0 table #5: started
+2023/02/06-21:17:42.295 17f1b Level-0 table #5: 15756 bytes OK
+2023/02/06-21:17:42.304 17f1b Delete type=0 #3

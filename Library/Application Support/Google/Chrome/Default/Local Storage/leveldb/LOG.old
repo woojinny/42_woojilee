@@ -1,0 +1,33 @@
+2023/02/06-13:43:38.237 5003 Reusing MANIFEST /Users/woojilee/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/06-13:43:38.249 5003 Recovering log #6
+2023/02/06-13:43:38.294 5003 Reusing old log /Users/woojilee/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000006.log 
+2023/02/06-13:46:22.600 2f07 Level-0 table #10: started
+2023/02/06-13:46:22.615 2f07 Level-0 table #10: 16246 bytes OK
+2023/02/06-13:46:22.627 2f07 Delete type=0 #6
+2023/02/06-13:54:53.168 2f07 Level-0 table #12: started
+2023/02/06-13:54:53.181 2f07 Level-0 table #12: 52042 bytes OK
+2023/02/06-13:54:53.193 2f07 Delete type=0 #9
+2023/02/06-14:14:37.641 8f1b Level-0 table #14: started
+2023/02/06-14:14:37.649 8f1b Level-0 table #14: 16218 bytes OK
+2023/02/06-14:14:37.658 8f1b Delete type=0 #11
+2023/02/06-15:08:12.692 8f1b Level-0 table #16: started
+2023/02/06-15:08:12.723 8f1b Level-0 table #16: 123850 bytes OK
+2023/02/06-15:08:12.736 8f1b Delete type=0 #13
+2023/02/06-15:08:12.736 8f1b Compacting 4@0 + 1@1 files
+2023/02/06-15:08:12.753 8f1b Generated table #17@0: 264 keys, 188285 bytes
+2023/02/06-15:08:12.754 8f1b Compacted 4@0 + 1@1 files => 188285 bytes
+2023/02/06-15:08:12.774 8f1b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/06-15:08:12.774 8f1b Delete type=2 #7
+2023/02/06-15:08:12.774 8f1b Delete type=2 #10
+2023/02/06-15:08:12.775 8f1b Delete type=2 #12
+2023/02/06-15:08:12.775 8f1b Delete type=2 #14
+2023/02/06-15:08:12.775 8f1b Delete type=2 #16
+2023/02/06-15:46:44.469 790f Level-0 table #19: started
+2023/02/06-15:46:44.507 790f Level-0 table #19: 15338 bytes OK
+2023/02/06-15:46:44.520 790f Delete type=0 #15
+2023/02/06-17:10:08.246 5837 Level-0 table #21: started
+2023/02/06-17:10:08.258 5837 Level-0 table #21: 158370 bytes OK
+2023/02/06-17:10:08.270 5837 Delete type=0 #18
+2023/02/06-17:34:24.086 400f Level-0 table #23: started
+2023/02/06-17:34:24.094 400f Level-0 table #23: 18293 bytes OK
+2023/02/06-17:34:24.104 400f Delete type=0 #20

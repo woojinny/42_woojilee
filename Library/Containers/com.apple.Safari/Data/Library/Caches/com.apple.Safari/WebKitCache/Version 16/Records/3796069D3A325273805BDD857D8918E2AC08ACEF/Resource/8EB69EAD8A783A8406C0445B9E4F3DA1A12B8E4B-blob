@@ -1,0 +1,63 @@
+"use strict";this.default_AccountsSignInUi=this.default_AccountsSignInUi||{};(function(_){var window=this;
+try{
+/*
+
+ Copyright 2020 Google Inc.
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+*/
+_.F2=new Map([["mdc-tooltip--rich","VfPpkd-suEOdc-OWXEXe-nzrxxc"],["mdc-tooltip--shown","VfPpkd-suEOdc-OWXEXe-TSZdd"],["mdc-tooltip--showing","VfPpkd-suEOdc-OWXEXe-eo9XGd"],["mdc-tooltip--showing-transition","VfPpkd-suEOdc-OWXEXe-eo9XGd-RCfa3e"],["mdc-tooltip--hide","VfPpkd-suEOdc-OWXEXe-ZYIfFd"],["mdc-tooltip--hide-transition","VfPpkd-suEOdc-OWXEXe-ZYIfFd-RCfa3e"],["mdc-tooltip--multiline","VfPpkd-suEOdc-OWXEXe-LlMNQd"],["mdc-tooltip__surface","VfPpkd-z59Tgd"],["mdc-tooltip__surface-animation","VfPpkd-z59Tgd-OiiCO"],
+["mdc-tooltip__caret-surface-top","VfPpkd-Djsh7e-XxIAqe-ma6Yeb"],["mdc-tooltip__caret-surface-bottom","VfPpkd-Djsh7e-XxIAqe-cGMI2b"]]);_.c1a=new Map([[1,0],[0,0],[2,1],[3,2],[4,3],[5,4],[6,5],[7,6],[8,7],[9,8],[10,9],[11,10],[12,11],[13,12]]);_.d1a=new Map([[1,0],[0,0],[2,1],[3,2],[5,4],[6,5],[4,3]]);_.e1a=new Map([[1,0],[0,0],[2,1],[3,2],[4,3]]);_.f1a=new Map([[0,0],[1,0],[2,1]]);
+_.k("wg1P6b");
+/*
+
+ Copyright 2018 Google Inc.
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+*/
+var k4=function(a){_.G.call(this,a.wa);this.fa=this.da=this.viewportElement=this.Fa=this.Da=null;this.uc=a.Aa.Vf;this.ea=this.Gj();a=-1*parseInt(_.Do(this.Gj().ta(),"marginTop")||"0",10);var b=parseInt(_.Do(this.Gj().ta(),"marginBottom")||"0",10);this.Qa={top:a,right:0,bottom:b,left:0};a=_.Fd(this.getData("isMenuDynamic"));b=_.Fd(this.getData("isMenuHoisted"));this.oa=a?1:b?2:0;this.ha=!1;this.Ba=1;1!==this.oa&&(this.da=this.Ja("U0exHf").children().yc(0),_.Xt(this,a3a(this,this.da.ta())));_.DM(this.ja())&&
+(this.ja().ta().__soy_skip_handler=this.ih.bind(this))};_.B(k4,_.G);k4.ia=function(){return{Aa:{Vf:_.kM}}};k4.prototype.E1=function(a){this.Fa=a=a.source;this.Ba=a.Do()||a.Ao()?1:2;b3a(this)};k4.prototype.Mj=function(a){a=a.event;var b=a.keyCode;40===b?this.Ba=2:38===b&&(this.Ba=3);return 40===b||38===b?(a.preventDefault(),b3a(this),!1):!0};var b3a=function(a){_.pf(function(b){a.da?(a.aa.Wt(a.Ba),a.jg()):a.Ia(_.U2a);_.gf(b)})};
+k4.prototype.jg=function(){if(!this.aa)throw Error("Ae");this.aa.fe()?this.aa.close():(2===this.oa&&(c3a(this,this.da.ta()),l4(this)),this.aa.open())};k4.prototype.eF=function(a){if(a.source!==this.aa)return!0;this.Fa&&this.Fa.lh?_.oM(this.uc,this.ea,{lh:this.Fa.lh()}):_.oM(this.uc,this.ea);return!0};k4.prototype.yz=function(){d3a(this);return!0};
+var d3a=function(a){_.pf(function(b){if(a.Hl())return b.return();a.Ge().activeElement!==a.ea.ta()&&_.pM(a.uc,a.ea);1===a.oa&&m4(a);2===a.oa&&(e3a(a,a.da.ta()),l4(a),n4(a));_.gf(b)})};_.g=k4.prototype;_.g.Hl=function(){return!!this.aa&&this.aa.fe()};_.g.uv=function(){if(!this.aa)throw Error("Ae");return this.aa};_.g.LE=function(){return this.Ja("WjL7X").children().yc(0)};_.g.Gj=function(){return this.ea?this.ea:f3a(this)};_.g.Nc=function(){_.G.prototype.Nc.call(this);this.ha&&m4(this)};
+var f3a=function(a){a=a.LE();_.Fd(a.getData("isTooltipWrapper"))&&(a=a.children().yc(0));_.Fd(a.getData("isTouchWrapper"))&&(a=a.children().yc(0));return a},c3a=function(a,b){a.fa=new _.Ko(document.createElement("div"));_.No(a.fa,b);_.Jh(a.ja().ta()).body.appendChild(a.fa.ta());a.Oq(b,a.Ja("U0exHf"));a.ha=!0;a.da=_.Yt(b)},e3a=function(a,b){_.No(_.Oo(a.Ja("U0exHf")),b);a.ha=!1;a.da=_.Yt(b)};
+k4.prototype.Ma=function(a){var b=void 0===b?{}:b;var c=this;return _.pf(function(d){c.da&&m4(c);b.yda?c3a(c,a):e3a(c,a);b.viewportElement&&(c.viewportElement=b.viewportElement);return d.return(a3a(c,a))})};
+var a3a=function(a,b){return _.Ev(a,b).then(function(c){a.aa=c;l4(a);return a.aa})},l4=function(a){a.aa.Wt(a.Ba);a.aa.Ow(a.ea);a.ha||a.aa.Lv()||a.aa.jW(a.Qa);a.aa.EK(a.ha);a.viewportElement&&a.aa.q6(a.viewportElement)},m4=function(a){a.da&&(a.da.remove(),_.wv(a.ja().ta()),a.da=null,n4(a))},n4=function(a){a.fa&&(a.fa.remove(),_.wv(a.ja().ta()),a.fa=null)};k4.prototype.ih=function(a,b){g3a(this,b);return!0};
+var g3a=function(a,b){_.pf(function(c){if(1==c.aa)return _.ff(c,Promise.all([h3a(a,b),i3a(a,b)]),2);a.Gj().ab("aria-expanded",a.Hl().toString());_.gf(c)})},h3a=function(a,b){var c,d;return _.pf(function(e){if(1==e.aa){c=a.LE().ta();if(!c)throw Error("Be");return _.ff(e,j3a(a),2)}d=e.da;d.aa(c,b.We());a.ea=f3a(a);_.gf(e)})},i3a=function(a,b){var c,d;return _.pf(function(e){if(1==e.aa){if(1===a.oa||!b.aq())return e.return();if(!a.da)throw Error("Ce");return _.ff(e,j3a(a),2)}c=e.da;c.aa(a.da.ta(),b.aq());
+d=2===a.oa&&a.ha?a.fa.children().yc(0):a.Ja("U0exHf").children().yc(0);if(a.da.ta()===d.ta())return e.qd(0);a.Hl()&&a.ha&&n4(a);return _.ff(e,a.Ma(d.ta()),0)})},j3a=function(a){var b;return _.pf(function(c){if(1==c.aa)return a.Da?c.return(a.Da):_.ff(c,_.Cd(a,{Aa:{Fv:_.nC}}),2);b=c.da;a.Da=b.Aa.Fv;return c.return(a.Da)})};_.I(k4.prototype,"A5GSIb",function(){return this.Nc});_.I(k4.prototype,"uh8wMe",function(){return this.Gj});_.I(k4.prototype,"UeYGad",function(){return this.LE});
+_.I(k4.prototype,"K3J0i",function(){return this.uv});_.I(k4.prototype,"tLCEwd",function(){return this.Hl});_.I(k4.prototype,"li9Srb",function(){return this.yz});_.I(k4.prototype,"oNPcuf",function(){return this.eF});_.I(k4.prototype,"SYZktf",function(){return this.jg});_.I(k4.prototype,"uYT2Vb",function(){return this.Mj});_.I(k4.prototype,"aj0Jcf",function(){return this.E1});_.K(_.sza,k4);
+_.m();
+}catch(e){_._DumpException(e)}
+}).call(this,this.default_AccountsSignInUi);
+// Google Inc.

@@ -1,0 +1,6 @@
+2023/02/06-20:06:44.957 3462f Creating DB /Users/woojilee/Library/Application Support/Google/Chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb since it was missing.
+2023/02/06-20:06:44.989 3462f Reusing MANIFEST /Users/woojilee/Library/Application Support/Google/Chrome/Default/IndexedDB/https_developers.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/06-20:07:37.023 1575f Level-0 table #5: started
+2023/02/06-20:07:37.030 1575f Level-0 table #5: 1816 bytes OK
+2023/02/06-20:07:37.039 1575f Delete type=0 #3
+2023/02/06-20:07:37.040 1575f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

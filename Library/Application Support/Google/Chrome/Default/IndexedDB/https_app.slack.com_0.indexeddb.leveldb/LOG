@@ -1,0 +1,6 @@
+2023/02/06-19:17:57.403 14823 Creating DB /Users/woojilee/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb since it was missing.
+2023/02/06-19:17:57.505 14823 Reusing MANIFEST /Users/woojilee/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/06-19:44:19.114 2a63f Level-0 table #5: started
+2023/02/06-19:44:19.120 2a63f Level-0 table #5: 2814 bytes OK
+2023/02/06-19:44:19.131 2a63f Delete type=0 #3
+2023/02/06-19:44:19.131 2a63f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
